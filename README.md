@@ -6,3 +6,6 @@ Descripton: The system is implemented using the C programming language for STM32
 Hardware: STM32, mpu6050, nrf24l01, car frame, motor, l298
 
 Software: Stm32CubeMx, stm32cubeide, KeilC, Visual Studio Code
+
+Demo: https://youtu.be/JG1xEU6mh00?si=kvPTqXoRko0xf8c9
+
